@@ -1,6 +1,6 @@
 # SQL_songDB
 
-access to SQL database through Node.js to pull the information.
+Access to SQL database through Node.js to pull the information.
  
 npm:<br>
 + mysql
